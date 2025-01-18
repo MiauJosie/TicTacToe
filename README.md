@@ -1,2 +1,2 @@
-## A TicTacToe game!
-# Built with Java.
+# A TicTacToe game!
+### Built with Java.
